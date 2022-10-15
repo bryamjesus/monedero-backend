@@ -1,4 +1,7 @@
 # Monedero Back-end
-```bash
 
+## Instalación
+```bash
+npm i
+npm install
 ```
